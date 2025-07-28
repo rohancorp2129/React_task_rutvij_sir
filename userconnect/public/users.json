@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Rohan Rakh",
+    "username": "rohancorp",
+    "email": "rohan@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "username": "priyash",
+    "email": "priya@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Aman Verma",
+    "username": "amanv",
+    "email": "aman@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Patil",
+    "username": "snehap",
+    "email": "sneha@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 5,
+    "name": "Raj Malhotra",
+    "username": "rajm",
+    "email": "raj@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Mehta",
+    "username": "anjalim",
+    "email": "anjali@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 7,
+    "name": "Dev Joshi",
+    "username": "devj",
+    "email": "dev@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 8,
+    "name": "Kavita Rao",
+    "username": "kavitarao",
+    "email": "kavita@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 9,
+    "name": "Vikas Singh",
+    "username": "vikassingh",
+    "email": "vikas@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 10,
+    "name": "Meera Kapoor",
+    "username": "meerak",
+    "email": "meera@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 11,
+    "name": "Neha Desai",
+    "username": "nehadesai",
+    "email": "neha@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 12,
+    "name": "Ravi Kumar",
+    "username": "ravik",
+    "email": "ravi@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 13,
+    "name": "Pooja Shah",
+    "username": "poojas",
+    "email": "pooja@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 14,
+    "name": "Nikhil Bansal",
+    "username": "nikhilb",
+    "email": "nikhil@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 15,
+    "name": "Tanya Roy",
+    "username": "tanyar",
+    "email": "tanya@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 16,
+    "name": "Arjun Nair",
+    "username": "arjunn",
+    "email": "arjun@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 17,
+    "name": "Isha Khan",
+    "username": "ishak",
+    "email": "isha@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 18,
+    "name": "Karan Thakur",
+    "username": "karant",
+    "email": "karan@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 19,
+    "name": "Shruti Joshi",
+    "username": "shrutij",
+    "email": "shruti@example.com",
+    "avatar": "/assets/user-icon.png"
+  },
+  {
+    "id": 20,
+    "name": "Aditya Gupta",
+    "username": "adityag",
+    "email": "aditya@example.com",
+    "avatar": "/assets/user-icon.png"
+  }
+]

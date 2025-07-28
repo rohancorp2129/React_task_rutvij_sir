@@ -1,0 +1,19 @@
+src/
+│
+├── components/
+│   ├── RegisterForm.jsx
+│   ├── ProfileCard.jsx
+│   └── UserList.jsx
+│
+├── hooks/
+│   └── useFetch.js      # Optional custom hook
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Register.jsx
+│   ├── Profile.jsx
+│   ├── Users.jsx
+│   └── NotFound.jsx
+│
+├── App.js
+└── index.js
